@@ -169,8 +169,8 @@ npm test
 
 ## Deployed contract addresses
 
-- Mainnet - Cypress: [0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432](https://kaiascan.io/account/0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432?tabId=internalTx)
-- Testnet - Boabab: [0x043c471bEe060e00A56CcD02c0Ca286808a5A436](https://kairos.kaiascan.io/account/0x043c471bEe060e00A56CcD02c0Ca286808a5A436?tabId=internalTx)
+- Kaia Mainnet: [0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432](https://kaiascan.io/account/0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432?tabId=internalTx)
+- Kairos Testnet: [0x043c471bEe060e00A56CcD02c0Ca286808a5A436](https://kairos.kaiascan.io/account/0x043c471bEe060e00A56CcD02c0Ca286808a5A436?tabId=internalTx)
 
 ## Support
 
