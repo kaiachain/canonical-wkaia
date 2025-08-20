@@ -172,6 +172,8 @@ npm test
 - Kaia Mainnet: [0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432](https://kaiascan.io/account/0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432?tabId=internalTx)
 - Kairos Testnet: [0x043c471bEe060e00A56CcD02c0Ca286808a5A436](https://kairos.kaiascan.io/account/0x043c471bEe060e00A56CcD02c0Ca286808a5A436?tabId=internalTx)
 
+> The contracts are deployed with [canonical-wklay](https://github.com/klaytn/canonical-wklay) and renamed to wkaia as part of the KAIA Foundation migration.
+
 ## Support
 
 For questions or support, please open an issue on the repository.
